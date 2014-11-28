@@ -1,0 +1,11 @@
+
+Sleep is a batch file sleep command used to pause batch files, 
+and causes command execution to sleep for a given number of seconds.
+
+It's similar to the sleep.exe that is included with the Windows Resource Kit, 
+but here you don't need to download and install the entire kit!
+
+You can integrate Sleep into batch files and scripts to pause the execution of a batch file 
+for a specified period of time.
+
+You can download your copy of Sleep from here http://www.sleepcmd.com/sleep.zip .
