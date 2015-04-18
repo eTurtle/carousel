@@ -1,10 +1,6 @@
 carousel
 ========
 
-Carousel is autoclicker.  
+script for for command-line interpreter on windows to autofollow links by web-browser
 
-It was written for own use in Windows Command Prompt (cmd.exe) .  
 
-This script allows to open pre-prepared links in Firefox randomly.  
-
-Also it can be used in stealth mode.
